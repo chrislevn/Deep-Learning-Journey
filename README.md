@@ -4,7 +4,7 @@
 
 ![](https://i.imgur.com/aClD7kB.png)
 
-## My current interest: Tensorflow, Computer Vision, Machine Learning, Mental Health AI, AI in healthcare. 
+## My current interest: Tensorflow, Computer Vision, Machine Learning.
 
 ---
 
