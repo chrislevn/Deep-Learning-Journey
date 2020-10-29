@@ -119,6 +119,7 @@ Resources: Daniel Bourke
 Link: https://www.youtube.com/watch?v=ya5NwvKafDk&ab_channel=DanielBourke
 
 - Laurence Moroney's Tensorflow course on Coursera
+- "Foundational Deep Learning" book by Tuan Nguyen, "Foundational Machine Learning" by Ph.D. Tiep Vu 
 
 ---
 
