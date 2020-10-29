@@ -84,7 +84,7 @@ Resources: Daniel Bourke
 
 - Add RNN layers to your model.
 
-- Use RNNS, LSTMs, GRUs and CNNs in models that work with text.
+- Use RNNS, LSTMs and CNNs in models that work with text.
 
 - Train LSTMs on existing text to generate text (such as songs and poetry)
 
