@@ -124,7 +124,7 @@ Link: https://www.youtube.com/watch?v=ya5NwvKafDk&ab_channel=DanielBourke
 ---
 
 My next plans: 
-- Do more in-depth studies in Deep Learning, starting with GANs and Embedding system in Machine Learning
+- Do more in-depth studies in Deep Learning, starting with GANs and Photogrammetry
 
 
 
