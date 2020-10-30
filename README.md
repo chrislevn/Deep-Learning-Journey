@@ -1,8 +1,8 @@
 # Deep Learning Journey
 
-## Description: My collected learning notebooks for Deep Learning and AI in general.
+![](https://i.imgur.com/o812qH5.jpg)
 
-![](https://i.imgur.com/aClD7kB.png)
+## Description: My collected learning notebooks for Deep Learning and AI in general.
 
 ## My current interest: Tensorflow, Computer Vision, Machine Learning.
 
